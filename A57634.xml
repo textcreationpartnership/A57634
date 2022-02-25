@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English vineyard vindicated by John Rose ... ; with an address where the best plants maybe had at easie rates.</title>
+            <author>Rose, John, gardener.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57634</idno>
+            <idno type="STC">Wing R1935</idno>
+            <idno type="STC">ESTC R16258</idno>
+            <idno type="EEBO-CITATION">13355423</idno>
+            <idno type="OCLC">ocm 13355423</idno>
+            <idno type="VID">99234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 474:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English vineyard vindicated by John Rose ... ; with an address where the best plants maybe had at easie rates.</title>
+                  <author>Rose, John, gardener.</author>
+               </titleStmt>
+               <extent>[20], 41, [2] p. : illus.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grismond for John Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Philocepos.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Viticulture --  England --  Early works to 1800.</term>
+               <term>Viticulture --  Early works to 1800.</term>
+               <term>Gardening --  England --  Early works to 1800.</term>
+               <term>Gardening --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99234:1"/>
+            <pb facs="tcp:99234:1"/>
+            <p>THE <hi>ENGLISH</hi> VINEYARD VINDICATED BY <hi>JOHN ROSE Gard'ner</hi> to His <hi>MAJESTY,</hi> at his Royal <hi>GARDEN</hi> in S<hi rend="sup">t.</hi> 
+               <hi>James</hi>'s.</p>
+            <p>Formerly <hi>Gard'ner</hi> to her <hi>Grace</hi> the <hi>Dutcheſs</hi> of <hi>Somerſet.</hi>
+            </p>
+            <p>
+               <hi>With an</hi> Addreſs, <hi>Where the beſt</hi> Plants <hi>may be had at</hi> eaſie <hi>Rates.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Griſmond</hi> for <hi>John Crook,</hi> at the <hi>Ship</hi> in <hi>St. Pauls Church-yard,</hi> 1666.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99234:2" rendition="simple:additions"/>
+            <pb facs="tcp:99234:2"/>
+            <head>TO THE KINGS <hi>Moſt Sacred MAJESTY.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe Your Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>EING by Your MA<g ref="char:EOLhyphen"/>JESTIES Grace and Favour ad<g ref="char:EOLhyphen"/>vanc'd to the Supream<g ref="char:EOLhyphen"/>eſt
+<pb facs="tcp:99234:3"/>Glory of our Pro<g ref="char:EOLhyphen"/>feſsion, which is to be qualified Your <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Gard'ner; I thought it moſt agreeable to my Duty, to render Your <hi>Majeſty</hi> this account of my <hi>Labour,</hi> and do ſup<g ref="char:EOLhyphen"/>plicate as well Your gra<g ref="char:EOLhyphen"/>cious <hi>Acceptance</hi> of what I Offer, as Your <hi>Pardon</hi> for my Preſumption; if at leaſt the ſhortneſs of the Diſcourſe, or the meanneſs of the <hi>Author</hi>
+               <pb facs="tcp:99234:3"/>may bring it any preju<g ref="char:EOLhyphen"/>dice; when the great <hi>Au<g ref="char:EOLhyphen"/>guſtus</hi> was pleaſed that <hi>Caius Valgius</hi>'s book of a few <hi>Herbs,</hi> and <hi>Moecenas,</hi> that a Pamphlet concern<g ref="char:EOLhyphen"/>ing the nature of <hi>Onions</hi> onely ſhould be inſcribed to them: Sir, dedicate the <hi>Prince</hi> of <hi>Plants</hi> to the <hi>Prince</hi> of <hi>Planters,</hi> Your <hi>Majeſty:</hi> This <hi>Royal Title,</hi> as Your <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> great affection and encouragement to all that
+<pb facs="tcp:99234:4"/>is truely Magnificent and Emolumental in the <hi>Cul<g ref="char:EOLhyphen"/>ture</hi> of <hi>Trees</hi> and <hi>Fruit,</hi> has worthily acquird; ſo has it given inſtance to thouſands of Your <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Subjects, whoſe glory it is to tranſcribe after your great <hi>Example</hi> for the good of the <hi>Ages</hi> to come.</p>
+            <p>I know Your <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> can have no great opinion of our <hi>Engliſh Wines,</hi> as hitherto they
+<pb facs="tcp:99234:4"/>have been order'd; but as I perſwade my ſelf it is not altogether from the defect of the <hi>Climate,</hi> at leaſt not in all <hi>places</hi> alike; nor, I am ſure, of the In<g ref="char:EOLhyphen"/>duſtry of Your <hi>Majeſties</hi> Subjects; but in ſome<g ref="char:EOLhyphen"/>what elſe, which I endea<g ref="char:EOLhyphen"/>vour to encounter in theſe few <hi>Papers;</hi> ſo if by Your <hi>Majeſties</hi> gracious <hi>Acceptance</hi> of the <hi>Eſſay,</hi> Gentlemen ſhall be en<g ref="char:EOLhyphen"/>courag'd to Plant thoſe
+<pb facs="tcp:99234:5"/>
+               <hi>ſorts</hi> of <hi>Vines</hi> which I here recommend, and to <hi>Cul<g ref="char:EOLhyphen"/>tivate</hi> them by my <hi>directi<g ref="char:EOLhyphen"/>on;</hi> that precious <hi>Liquor</hi> may haply once againe recover its juſt eſtimation, be the product of Your <hi>Majeſties Dominions,</hi> and anſwer the ambition of</p>
+            <closer>
+               <signed>
+                  <hi>May it pleaſe Your Majeſty, Your</hi> Majeſties <hi>moſt obedient</hi> Subject <hi>and</hi> Servant, <hi>JOHN ROSE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:99234:5"/>
+            <head>THE ENGLISH <hi>VINEYARD</hi> VINDICATED. THE PREFACE <hi>OR Occaſion of this</hi> Diſcourſe.</head>
+            <p>BEing one day refreſh<g ref="char:EOLhyphen"/>ing my ſelf in the <hi>Garden</hi> at <hi>Eſſex-houſe,</hi> and amongst other things falling into diſcourſe with <hi>Mr. Roſe,</hi> (then <hi>Gard'ner</hi> to her <hi>Grace</hi> the Dutcheſs
+<pb facs="tcp:99234:6"/>of <hi>Somerſet</hi>) about <hi>Vines,</hi> and particularly the <hi>Cauſe</hi> of the neglect of <hi>Vineyards</hi> of late in <hi>England;</hi> he reaſon'd ſo pertinently upon that <hi>Subject</hi> (as indeed he does upon all things, which concern his <hi>hortulan</hi> Pro<g ref="char:EOLhyphen"/>feſsion) that conceiving how greatly it might oblige many worthy and ingenious <hi>Per<g ref="char:EOLhyphen"/>ſons,</hi> lovers of <hi>Plantations,</hi> and of the nobleſt parts of it; I was eaſily perſwaded to gratifie his modeſt and
+<pb facs="tcp:99234:6"/>charitable inclinations, to have them <hi>communica<g ref="char:EOLhyphen"/>ted</hi> to the world. The <hi>Matter</hi> therefore of the enſuing <hi>Diſcourſe</hi> be<g ref="char:EOLhyphen"/>ing totally <hi>his,</hi> receives from me onely its <hi>forme,</hi> and the putting of his <hi>Con<g ref="char:EOLhyphen"/>ceptions</hi> together; which I have dreſs'd up in as <hi>ru<g ref="char:EOLhyphen"/>ral</hi> a garbe as I thought might beſt become, and re<g ref="char:EOLhyphen"/>commend them for <hi>Pra<g ref="char:EOLhyphen"/>ctice.</hi> I have turn'd over many both late, and ancient
+<pb facs="tcp:99234:7"/>
+               <hi>Books</hi> (far exceeding <hi>this</hi> in bulk) pretending to di<g ref="char:EOLhyphen"/>rect us in our choice of the <hi>Fruit,</hi> and the Planting of <hi>Vineyards:</hi> But I do in<g ref="char:EOLhyphen"/>genuouſly profeſs, that none of them have appear'd to me more <hi>rational,</hi> and worthy our <hi>imitation,</hi> than theſe ſhort <hi>Obſervations</hi> of <hi>Mr. Roſes,</hi> and which I ſo much the more <hi>value,</hi> as I conſi<g ref="char:EOLhyphen"/>der them the native pro<g ref="char:EOLhyphen"/>duction of his own <hi>Experi<g ref="char:EOLhyphen"/>ence,</hi> without obtruding any
+<pb facs="tcp:99234:7"/>thing upon the reputation of <hi>others,</hi> which is now become the moſt pernitious <hi>Impo<g ref="char:EOLhyphen"/>ſture</hi> that flatters us into ſo many <hi>miſtakes</hi> and <hi>errours;</hi> whil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt men follow ſuch <hi>Di<g ref="char:EOLhyphen"/>rections</hi> as they meet with<g ref="char:EOLhyphen"/>all in <hi>Print,</hi> or from ſome <hi>Monſieurs</hi> new come over, who thinke we are as much oblig'd to follow their <hi>mode</hi> of <hi>Gard'ning,</hi> as we do that of their <hi>Garments,</hi> 'till we become in both ridiculous. I might here add ſomething
+<pb facs="tcp:99234:8"/>of <hi>oſtentation,</hi> by deduce<g ref="char:EOLhyphen"/>ing the <hi>Pedegree</hi> of <hi>Vine<g ref="char:EOLhyphen"/>yards</hi> from the great Ori<g ref="char:EOLhyphen"/>ental <hi>Patriarch</hi> of them to this day; But it will be of more encouragement to us, when we ſhall conſider how frequently they were hereto<g ref="char:EOLhyphen"/>fore planted in this <hi>Coun<g ref="char:EOLhyphen"/>try</hi> of ours, as they ſtill continue to be in <hi>Places</hi> of the very ſame <hi>Latitude</hi> abroad; ſo as the ſtrange decay of them amongst us for theſe latter <hi>Ages,</hi> muſt
+<pb facs="tcp:99234:8"/>needs proceed from no other <hi>cauſe</hi> then that of our own <hi>neglect,</hi> and the common <hi>viciſsitude</hi> of things. We behold it in that of <hi>Timber</hi> to our grief, and the ſeveral (almoſt loſt) <hi>ſpecies</hi> of ſome: Why have we not as goodly <hi>Maſts</hi> for our <hi>Ships</hi> as our neighbour <hi>Countries?</hi> Why is the <hi>Elme,</hi> the <hi>Wal<g ref="char:EOLhyphen"/>nut,</hi> and the <hi>Cheſtnut</hi> ſo decay'd and rare amongst us, more than formerly they were? 'But of this I have
+<pb facs="tcp:99234:9"/>elſe-where given an
+<note n="*" place="margin">Sylva.</note> 
+               <hi>ac<g ref="char:EOLhyphen"/>count</hi> more at large. The <hi>Vineyard</hi> is now before you.</p>
+            <closer>
+               <signed>Philocepos.</signed>
+            </closer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:99234:9"/>
+            <pb facs="tcp:99234:10"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of trees</figDesc>
+                  <pb facs="tcp:99234:11"/>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99234:11"/>
+            <head>THE ENGLISH <hi>VINEYARD</hi> VINDICATED.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of the ſeveral ſorts of</hi> Vines, <hi>and what</hi> Grapes <hi>do beſt accommo<g ref="char:EOLhyphen"/>date with our</hi> Climate <hi>in</hi> England.</head>
+               <p>
+                  <seg rend="decorInit">U</seg>Pon long, and dili<g ref="char:EOLhyphen"/>gent obſervation of the <hi>Species;</hi> I do chiefly recom<g ref="char:EOLhyphen"/>mend theſe following, to be the moſt proper and natural for the Curious in our <hi>Coun<g ref="char:EOLhyphen"/>try</hi> to exerciſe their Induſtries
+<pb n="2" facs="tcp:99234:12"/>upon, as from whence they may promiſe themſelves a re<g ref="char:EOLhyphen"/>compence worthy of their ex<g ref="char:EOLhyphen"/>pectations.</p>
+               <p n="1">1. The ſmall <hi>Black grape,</hi> by ſome call'd the <hi>Cluſter-grape,</hi> a precoce and early ripe fruit.</p>
+               <p n="2">2. The white <hi>Muſcadine</hi> ear<g ref="char:EOLhyphen"/>ly ripe alſo, and a well known <hi>grape.</hi>
+               </p>
+               <p n="3">3. The <hi>Parſly-grape,</hi> ſo deno<g ref="char:EOLhyphen"/>minated from the ſhape and indentures of the leafe; it bears ſomewhat a ſmaller <hi>rai<g ref="char:EOLhyphen"/>ſin</hi> or berrie, but it is of a briske and delicious taſte, mature betimes.</p>
+               <p n="4">4. The <hi>Muſcadella</hi> a white
+<pb n="3" facs="tcp:99234:12"/>
+                  <hi>grape,</hi> not ſo big as the <hi>Muſca<g ref="char:EOLhyphen"/>dine</hi> though as ſoon ripe.</p>
+               <p n="5">5. The <hi>Frontiniaq,</hi> both white and red.</p>
+               <p n="6">6. A new <hi>white Grape,</hi> ripe before the <hi>Muſcadins,</hi> which I found in His <hi>Majeſties</hi> Garden in <hi>St. James</hi>'s, with a red wood and a dark green leafe: it ri<g ref="char:EOLhyphen"/>pens as ſoon in ſtandard as a<g ref="char:EOLhyphen"/>gainſt ſome Walls, and is a clo<g ref="char:EOLhyphen"/>ſer bunch than the <hi>Muſcadine.</hi> Theſe are the kinds which I prefer before any other for the ſtoring of a <hi>Vineyard,</hi> al<g ref="char:EOLhyphen"/>though there are ſeveral other ſorts, which I paſs by, as not ſo applicable to our deſigne,
+<pb n="4" facs="tcp:99234:13"/>though very worthy of the Curious, and thoſe who affect variety, becauſe they will re<g ref="char:EOLhyphen"/>quire the artificial reflection and aſſiſtance of walls to bring them to maturity.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="5" facs="tcp:99234:13"/>
+               <head>CHAP. II. <hi>Of the</hi> Soile, <hi>and</hi> Situation <hi>of a</hi> Vineyard <hi>in</hi> England.</head>
+               <p>LEt election be made of a light <hi>ſandy</hi> ground, if it be a little ſtrong upon the ſurface it is not to be rejected: and for its ſitua<g ref="char:EOLhyphen"/>tion, I would chooſe that <hi>ſide</hi> or declivity of an <hi>hill</hi> lying to the <hi>South,</hi> or <hi>South-weſt,</hi> which if favor'd with other <hi>hills</hi> ſomwhat higher, or <hi>woods</hi> on the <hi>North</hi> and <hi>Eaſt,</hi> would be ſo much the better for the breaking the ſeveritie of thoſe pinching quarters: This light
+<pb n="6" facs="tcp:99234:14"/>ſoile having a bottom of <hi>Chalk</hi> or <hi>gravell,</hi> under a ſurface of two foot in depth, and free from <hi>Springs,</hi> cannot be too hot, or dry; provided it be not addicted to <hi>health;</hi> for commonly nothing grows kindly where <hi>that</hi> is apt to o're ſpread; but if given to <hi>brambles,</hi> it is a promiſing ſign<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and infinitely to be pre<g ref="char:EOLhyphen"/>ferr'd before the other; for moſt confident I am, (nor do I ſpeak it upon conjecture only) that there is no <hi>Plant</hi> whatſoever ſo connatural to the <hi>Vine</hi> for ſoile and ſituati<g ref="char:EOLhyphen"/>on as this repent, and humble
+<pb n="7" facs="tcp:99234:14"/>ſhrub: Thoſe who ſhall pleaſe to take notice of the places in which <hi>brambles</hi> moſt flouriſh; which are for the moſt part in the drieſt banks, hilly, ſtony and hot places; will eaſily infer how much they reſemble the <hi>Vine</hi> in this particular: True it is, they will alſo come up in wettiſh and moiſt places alſo; but it is in the <hi>other</hi> where they grow large and ſtrong, bear goodly berries and in moſt plenty; Not that I would hereby adviſe any to plant their <hi>Vines</hi> amongſt the <hi>bram<g ref="char:EOLhyphen"/>bles;</hi> but thoſe places well
+<pb n="8" facs="tcp:99234:15"/>grubb'd and trenched, are not to be rejected, becauſe they commonly thrive in ſuch grounds as are apt for <hi>Vines,</hi> and where I would make choice of a ſpot to plant a <hi>Vineyard</hi> in.</p>
+               <p>That I have inſiſted on this remark, and of having a <hi>Chal<g ref="char:EOLhyphen"/>ky</hi> or <hi>Gravelly</hi> bottom, is from much experience, having ne<g ref="char:EOLhyphen"/>ver found, but that in ſuch hard <hi>Stony</hi> or <hi>Chalky</hi> ground (provided it were not loamy) <hi>Vines</hi> do exceedingly flouriſh; eſpecially if the land have layne a good while in repoſe, and not of many years ex<g ref="char:EOLhyphen"/>hauſted
+<pb n="9" facs="tcp:99234:15"/>hauſted by the <hi>plow,</hi> where the green ſwarth covers thoſe gentle riſings amongſt the <hi>downes,</hi> not too much expos'd to the rudeneſs of the wea<g ref="char:EOLhyphen"/>ther. Nor are <hi>Gentlemen</hi> to be therefore deterr'd, becauſe this late age has neglected the Planting of <hi>Vineyards,</hi> that therefore it is to no purpoſe now to begin; ſince the diſ<g ref="char:EOLhyphen"/>couragement has only pro<g ref="char:EOLhyphen"/>ceeded from their miſinfor<g ref="char:EOLhyphen"/>mation on this material arti<g ref="char:EOLhyphen"/>cle of the <hi>choyce</hi> of <hi>ſoile</hi> and <hi>ſituation,</hi> whileſt giving ear to our forraign <hi>Gardners</hi> coming here into <hi>England,</hi> they tooke
+<pb n="10" facs="tcp:99234:16"/>up thoſe rules which they ſaw to be moſt practis'd in <hi>Countries</hi> of ſo little affinity with <hi>ours,</hi> and without ha<g ref="char:EOLhyphen"/>ving that due conſideration of the <hi>Climat,</hi> which is ſo neceſſa<g ref="char:EOLhyphen"/>ry and behoveful to Plantati<g ref="char:EOLhyphen"/>ons of this nature: Hence they for the moſt part, made continual choice of our beſt and richeſt land, without re<g ref="char:EOLhyphen"/>gard of other circumſtances; not conſidering that the deepneſs and fatneſs of the Earth, contributes more to the luxury of the <hi>branches,</hi> amplitude of <hi>leaves</hi> and pre<g ref="char:EOLhyphen"/>cipitation of the <hi>roots</hi> than
+<pb n="11" facs="tcp:99234:16"/>to the juſt and natural ſtature of the <hi>ſtem,</hi> plenty, and excel<g ref="char:EOLhyphen"/>lency of the fruit, for which alone theſe <hi>Plantations</hi> are deſirable. In ſandy or loamy land <hi>Vines</hi> indeed grow more abundantly, than where the ſand, gravel, or chalk are in<g ref="char:EOLhyphen"/>gredients, whoſe ſurface of mould is not ſo profound, a foot and half being ſufficient; but this rock of <hi>chalk</hi> and <hi>gra<g ref="char:EOLhyphen"/>vel,</hi> does in the interim hin<g ref="char:EOLhyphen"/>der the root from going too deep, forceing it to ſpread the more towards the top, by which meanes the tender and fiberous rootes receive the
+<pb n="12" facs="tcp:99234:17"/>natural, ſweet and benigne ſhowers, dews, and influen<g ref="char:EOLhyphen"/>ces, which impart both life and pregnancy to theſe noble <hi>Plantations:</hi> By this they re<g ref="char:EOLhyphen"/>ceive the cheriſhing warmeth of the <hi>Sun,</hi> impregnated with a certaine <hi>volatile ſalt,</hi> which produced near the ſurface of the Earth only, is drunk in by the delicat pores and aper<g ref="char:EOLhyphen"/>tures of the latent rootes whileſt the deeper buried, de<g ref="char:EOLhyphen"/>priv'd of theſe prolifical ad<g ref="char:EOLhyphen"/>vantages, grow only fertil it watery and inſipid leaves o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> branches without fruit; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mould or <hi>matrix</hi> in which
+<pb n="13" facs="tcp:99234:17"/>they lie, being altogether flug<g ref="char:EOLhyphen"/>iſh and unactive for want of heat and the <hi>prolific</hi> embraces of the <hi>Sun.</hi> Hence it is we find ſo many <hi>Vines,</hi> though plenti<g ref="char:EOLhyphen"/>ful of <hi>branches,</hi> ſo thin of <hi>joynts,</hi> and thoſe even of the ſame kind, planted in better ground, as thick of knots as a mans finger is of joynts, from whence thoſe ſhootes are produc'd which our <hi>Eng<g ref="char:EOLhyphen"/>liſh Vigneron</hi> ſhould preſerve at <hi>pruning</hi> time to <hi>ſet</hi> his <hi>fruit,</hi> and expect his <hi>Vintage</hi> from.</p>
+               <p>But to return to the <hi>ſituati<g ref="char:EOLhyphen"/>on</hi> againe. Though <hi>Land</hi> ſhould be ſo qualified as we
+<pb n="14" facs="tcp:99234:18"/>have deſcrib'd it for the <hi>ſoile;</hi> yet if it have not alſo that <hi>de<g ref="char:EOLhyphen"/>clivity</hi> and <hi>aſpect</hi> we menti<g ref="char:EOLhyphen"/>oned, it cannot be ſo fit for our purpoſe: for firſt, <hi>hills</hi> are not ſo ſubject to the morning foggs and infectious miſts as lower grounds are; beſides, <hi>flat</hi> lands do not ſo ſoone en<g ref="char:EOLhyphen"/>joy the benefit of the riſing <hi>Sun,</hi> nor does it ſtay ſo long upon them in the evening by ſome hours in the day; for ſince this <hi>ſolar</hi> and generous <hi>Plant</hi> does above all things af<g ref="char:EOLhyphen"/>fect to be dry, eſpecially, after the fruit begins to be formed and approch to its maturity
+<pb n="15" facs="tcp:99234:18"/>there is nothing more noxi<g ref="char:EOLhyphen"/>ous to it, then at that ſeaſon, to be infeſted with the cold and heavy damps of theſe <hi>foggs;</hi> and it is in <hi>that,</hi> as much as in any other thing, where<g ref="char:EOLhyphen"/>in other more Southern <hi>tracts</hi> have the advantage of us, that theſe enemies are diſperſed and ſcatter'd ſooner than with us; and which threfore we muſt ſtrive to encounter by the advantages we have hitherto neglected; but which we may ſurmount by making choice of a more lofty ſituati<g ref="char:EOLhyphen"/>on.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="16" facs="tcp:99234:19"/>
+               <head>CHAP. III. <hi>How to prepare the</hi> ground <hi>for the</hi> Plantation.</head>
+               <p>I Have already wiſh'd for a <hi>turfy</hi> ſurface, and which has not been broken up, or ſowed of a long time, and have alledged my reaſons for it: But now in <hi>July,</hi> when the <hi>Earth</hi> is very dry and combuſ<g ref="char:EOLhyphen"/>tible, plow up the <hi>ſwarth,</hi> and when 'tis very cruſty, diſpoſe the <hi>turfes</hi> in ſmall heapes, burn, and ſpread the aſhes o<g ref="char:EOLhyphen"/>ver the land, to be trenched in <hi>December</hi> or the <hi>January</hi> fol<g ref="char:EOLhyphen"/>lowing. I adviſe you to lay
+<pb n="17" facs="tcp:99234:19"/>your dried materials but in little heaps, from an obſerva<g ref="char:EOLhyphen"/>tion which I have made in <hi>Wilt-ſhire,</hi> and particularly the <hi>Downes</hi> of <hi>Salisbury-plaine,</hi> that where they congeſt too much together, the exceſſive <hi>fire</hi> and heat (which they require to reduce them to <hi>aſhes</hi>) over <hi>burnes</hi> the <hi>earth,</hi> to the great prejudice of thoſe <hi>ſalts</hi> and <hi>ſpirits</hi> which a more moderate fire would preſerve from evo<g ref="char:EOLhyphen"/>lition and flying away; an Inſtance of this we have in the <hi>Charring</hi> of <hi>Wood</hi> for <hi>Coale,</hi> the ſmall duſt whereof is a powerful ingredient to the
+<pb n="18" facs="tcp:99234:20"/>improving of the roots of <hi>Trees,</hi> moderately made uſe of.</p>
+               <p>The <hi>ground</hi> thus prepar'd; when you begin to <hi>trench,</hi> contrive your <hi>ranges</hi> ſo, as they may run thwart your <hi>hill,</hi> that is, let the <hi>ridges</hi> paſs from <hi>Eaſt</hi> to <hi>Weſt;</hi> my reaſon is, becauſe the <hi>Vines</hi> ſtanding thus in <hi>ranks;</hi> the riſing and ſetting of the <hi>Sun</hi> will by this meanes paſs through the intervals, which it would not do in the common poſture of <hi>North</hi> and <hi>South;</hi> for the <hi>Sun</hi> being low at its firſt and laſt appearance a<g ref="char:EOLhyphen"/>bove the <hi>Horiſon</hi> (and at which
+<pb n="19" facs="tcp:99234:20"/>time by reaſon of our <hi>foggs</hi> and <hi>miſts,</hi> we chiefly ſtand in need of his aſſiſtance) thoſe rows which paſs from <hi>North</hi> and <hi>South</hi> will ſhade one the other, and ſo hinder this ma<g ref="char:EOLhyphen"/>terial <hi>effect.</hi> If it be objected that <hi>Vines</hi> being ſo planted, loſe that at <hi>Noon,</hi> which they gaine in the <hi>Morning</hi> and <hi>E<g ref="char:EOLhyphen"/>vening;</hi> I reply, that the <hi>Sun</hi> at the ſeaſon of <hi>ripening,</hi> is high enough for rowes of <hi>Vines</hi> of three foot diſtance, to ſhine with, and dart its beams even over the very <hi>Plants</hi> without the leaſt intercepti<g ref="char:EOLhyphen"/>on: whereas upon its <hi>riſing</hi>
+                  <pb n="20" facs="tcp:99234:21"/>or <hi>ſetting,</hi> it would be almoſt totally <hi>Ecclipſed</hi> by the Colla<g ref="char:EOLhyphen"/>teral poſture of the oppoſite ranges.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="21" facs="tcp:99234:21"/>
+               <head>CHAP. IV. <hi>How to Plant the</hi> Sets.</head>
+               <p>THe <hi>Ground</hi> in this or<g ref="char:EOLhyphen"/>der, prepare a meaſure of <hi>three-foot,</hi> and by a line ſtrain'd, dig the Earth a <hi>foot</hi> deep or the ſingle <hi>ſpit,</hi> cleanſing the <hi>Trench,</hi> and ſhouling up the crumbs that the bottom be cleane, and the edges ſharp, which you muſt guide by your <hi>meaſure,</hi> that ſo all the <hi>trenches</hi> may be of an equal ſize. This done, fit your <hi>Plants, Layers,</hi> or <hi>Rootes</hi> ſo prun'd both <hi>roots</hi> and <hi>bran<g ref="char:EOLhyphen"/>ches,</hi> that you leave not a<g ref="char:EOLhyphen"/>above
+<pb n="22" facs="tcp:99234:22"/>
+                  <hi>two</hi> or <hi>three eyes</hi> of the young <hi>wood</hi> upon them. Then Plant them in the bottome of your <hi>Trenches,</hi> ſo as the rootes may lie Croſs them, and ſom<g ref="char:EOLhyphen"/>what ſloaping on a ſtrait line as near as may be gueſs'd. In this poſture, cover them three or four <hi>inches</hi> with the mould; and order it ſo, as the upper part of your plant be two or three inches lower than the ground, that when the <hi>ridges</hi> come to be levell'd, the top of your <hi>ſets</hi> may be <hi>even</hi> with the <hi>area.</hi> Thus pro<g ref="char:EOLhyphen"/>ceed to plant them at the di<g ref="char:EOLhyphen"/>ſtance of two foot one from
+<pb n="23" facs="tcp:99234:22"/>the other, that ſo the <hi>ranges</hi> may have a yard interval be<g ref="char:EOLhyphen"/>tween. This done, take long <hi>dung</hi> or <hi>litter,</hi> and ſtrow it in the <hi>Trenches,</hi> of a reaſonable thickneſs to cover the Earth, and preſerve the <hi>roots</hi> from thoſe dry and peircing <hi>winds</hi> which would otherwiſe infi<g ref="char:EOLhyphen"/>nitely prejudice them; this will likewiſe maintain them cold and freſh in <hi>Summer,</hi> till they have <hi>ſtruck</hi> and taken hold of their Stations: After this they will need no more for the preſent, but that you diligently <hi>haw,</hi> and cleanſe them from <hi>weeds,</hi> before they
+<pb n="24" facs="tcp:99234:23"/>come to <hi>ſeede;</hi> and in this labour of <hi>hawing,</hi> work a little of the ſides of your <hi>ridges</hi> with your inſtrument to<g ref="char:EOLhyphen"/>wards the <hi>roots</hi> of your new<g ref="char:EOLhyphen"/>ly planted <hi>Vines,</hi> to comfort and eſtabliſh them. <hi>This</hi> Di<g ref="char:EOLhyphen"/>agram <hi>refers to the</hi> order <hi>and</hi> diſtance <hi>of planting the</hi> ſets.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="25" facs="tcp:99234:23"/>
+               <head>CHAP. V. <hi>How to</hi> dreſs, Prune, <hi>and</hi> Go<g ref="char:EOLhyphen"/>vern <hi>the</hi> Plantation.</head>
+               <p>THe firſt pruning of the new ſet <hi>Vineyard</hi> ſhall not begin before the <hi>January</hi> after, and then cut, off all the <hi>ſhootes</hi> as near as you can poſſibly, ſparing only the ſtrongeſt and moſt vigorous to each roote, which you ſhould leave with two <hi>eyes</hi> of young wood; and ſo let them reſt till <hi>May</hi> the <hi>ſecond</hi> year after planting, and then be ſure to clear the roots of all collateral <hi>ſuckers</hi> which do
+<pb n="26" facs="tcp:99234:24"/>but rob, and exhauſt your <hi>ſets;</hi> and leave none but what break out of thoſe two or three <hi>eyes</hi> of the <hi>young</hi> wood above mention'd, continuing your care to ſuppreſs the <hi>weeds,</hi> and in your <hi>hawing</hi> to cheriſh the roots of your plants with ſome of your <hi>ridg<g ref="char:EOLhyphen"/>earth</hi> as you were taught in the former <hi>Chapter.</hi> And thus you ſhall alſo govern your <hi>Vineyard</hi> the <hi>third</hi> year, cutting off all the <hi>ſhoots</hi> very cloſe in the ſame <hi>Moneth,</hi> and ſparing only the ſtouteſt which is next the ground; yet ſo, as you leave him not above
+<pb n="27" facs="tcp:99234:24"/>three or four <hi>eyes.</hi> This done dig all your <hi>Vineyard</hi> and lay it very level; but with great care that in the work you do not cut or wound any of the maine roots with your <hi>ſpade;</hi> as for the younger roots, it is not ſo material, for they will grow but the thicker. It is in this <hi>third</hi> year that you may peradventure enjoy ſome fruit of your labour, which if an<g ref="char:EOLhyphen"/>ſwerable to your hopes, will admoniſh you to provide for <hi>props,</hi> which muſt be made of <hi>Hazel, Aſh,</hi> or <hi>Oake,</hi> about four foot in length, of the thick<g ref="char:EOLhyphen"/>neſs of a <hi>broom-ſtick,</hi> which
+<pb n="28" facs="tcp:99234:25"/>being conveniently apply'd to the <hi>North</hi> ſide of your <hi>plant,</hi> you ſhall in <hi>May</hi> (rubbing off all the <hi>theives</hi> which ſpring from the Roots of the plant, and leaving only ſuch as come from the <hi>ſtem</hi> and like to bear fruit) bind up the ſhoots of thoſe three <hi>Eyes</hi> which you were order'd to leave, as the moſt probable to be <hi>bearers</hi> that year, as in <hi>June</hi> you will diſcover. When the fruit is of the ſize of <hi>birding ſhot,</hi> break off the branches with your hand at the ſecond <hi>joynt</hi> above the <hi>fruit;</hi> and tye the reſt to the <hi>prop:</hi> I ſay, you
+<pb n="29" facs="tcp:99234:25"/>muſt <hi>breake,</hi> not <hi>cut</hi> your <hi>Vines,</hi> becauſe wounds made now with a <hi>knife</hi> or ſharper inſtru<g ref="char:EOLhyphen"/>ment, are not ſo apt to heale; and therefore the ſeaſon for this work is in the very <hi>heat</hi> of the day when they are apt for <hi>conſolidation,</hi> without pre<g ref="char:EOLhyphen"/>judice to the fruit. But it is not regularly till the <hi>fourth</hi> year that you can expect any ſtore of <hi>fruit;</hi> when govern<g ref="char:EOLhyphen"/>ing your <hi>Vineyard</hi> as before you are directed, fail not of a due proviſion of <hi>props</hi> ſuffici<g ref="char:EOLhyphen"/>ent for your whole <hi>plantati<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="30" facs="tcp:99234:26"/>
+               <head>CHAP. VI. <hi>How to</hi> order, <hi>and</hi> cultivate <hi>the</hi> Vineyard <hi>after the</hi> firſt <hi>four years 'till it needs</hi> renewing.</head>
+               <p>THe following years after the firſt bearing, you will likely have three or four <hi>ſhoots</hi> to every Plant. In <hi>January</hi> therefore, or <hi>December,</hi> prune <hi>all</hi> away ſave the ſtron<g ref="char:EOLhyphen"/>geſt, which you may leave for a <hi>ſtandard</hi> about four or five foot high, cutting the reſt very cloſe to the body of the <hi>Mo<g ref="char:EOLhyphen"/>ther-plant;</hi> (I mean ſuch as are ſmall and trifling <hi>ſhoots</hi>) re<g ref="char:EOLhyphen"/>ſerving ſuch as you find about
+<pb n="31" facs="tcp:99234:26"/>the bigneſs of an handſome reed, to which you ſhall leave two or three <hi>eyes</hi> next the ground. Then apply a <hi>prop</hi> to every of your <hi>Vines,</hi> and tye to them the <hi>Maſter</hi> ſhoots which you were order'd to leave four foot high, with ſome tender <hi>Oziers</hi> about one foot from the <hi>Earth,</hi> bending the top of theſe <hi>ſhoots</hi> to the next <hi>prop,</hi> about two foot from the ground, that ſo your <hi>ranks</hi> may ſtand in forme of <hi>Arches,</hi> whileſt the <hi>eyes</hi> that you ſpa<g ref="char:EOLhyphen"/>red now in <hi>dreſsing,</hi> ſhall the <hi>May</hi> following, be bound to the <hi>props</hi> for the next years
+<pb n="32" facs="tcp:99234:27"/>bearing, to the great increaſe of your fruit: Then in <hi>May,</hi> or the begining of <hi>June</hi> (when the little <hi>raiſins</hi> are of the big<g ref="char:EOLhyphen"/>neſs before mentioned) <hi>ſtop</hi> their ſecond <hi>joynt</hi> above the <hi>fruit</hi> as you were <hi>there</hi> taught, but be careful to leave the ſtrongeſt ſhoot to be the <hi>ſtan<g ref="char:EOLhyphen"/>dard plant</hi> of the year enſuing.</p>
+               <p>In <hi>Auguſt,</hi> when the fruit begins to <hi>turn</hi> and <hi>ripen,</hi> break off ſuch <hi>ſhoots</hi> as you ſhall find too thick upon thoſe you prun'd in <hi>May;</hi> but this worke you muſt do with diſ<g ref="char:EOLhyphen"/>cretion, and only ſo as to le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>in</hi> the <hi>Sun</hi> for the ripning of
+<pb n="33" facs="tcp:99234:27"/>the over <hi>ſhadowed Cluſters,</hi> which you ought to leave <hi>skreen'd</hi> with ſome of the fo<g ref="char:EOLhyphen"/>liage, as well to preſerve your <hi>fruit</hi> from the ſcorching of the <hi>Sun,</hi> by day, as the <hi>dews</hi> which fall in the night, to both whoſe invaſions it is obnoxious.</p>
+               <p>And now obſerve, that the <hi>ſtandards</hi> you laſt ty'd to the <hi>props</hi> at a foot-high, and whoſe tops were bent to be next, will the following year be grown <hi>Old wood:</hi> In the firſt Pruning ſeaſon therefore, or <hi>January</hi> after, remember to cut them cloſe to the ground,
+<pb n="34" facs="tcp:99234:28"/>ſupplying the places with the ſtrongeſt <hi>ſhoot</hi> of your young wood, which you left four <hi>foot</hi> high for the purpoſe, and which you muſt order as you have been taught the year be<g ref="char:EOLhyphen"/>fore; pruning the reſtat the ve<g ref="char:EOLhyphen"/>ry <hi>Earth,</hi> and leaving two <hi>eyes</hi> to each of the ſtrongeſt <hi>ſhootes</hi> as is there reherſed: And now give your <hi>Vineyard</hi> an ordinary <hi>digging</hi> with the ſame care of the <hi>maſter-roots,</hi> and till the ſeaſon of this worke, you may permit your <hi>props</hi> to ſtand.</p>
+               <p>We the more inſiſt upon an <hi>early pruning,</hi> to hinder their <hi>bleeding;</hi> though ſome are of
+<pb n="35" facs="tcp:99234:28"/>opinion, that this ſuperfluity of <hi>Vines,</hi> preſerving the young and forward <hi>ſhoots</hi> the back<g ref="char:EOLhyphen"/>warder in <hi>April,</hi> prevents the <hi>blaſts</hi> of <hi>May;</hi> for this cauſe many will not cut their plants till <hi>March,</hi> but they ſpend too much of their Vigour in theſe late amputations, and are as much in danger of <hi>blaſting</hi> for want of competent ſtrength to ſupport the tender <hi>ſhoots;</hi> whereas prun'd in <hi>November</hi> or the following moneth, they never <hi>bleed,</hi> but being cut be<g ref="char:EOLhyphen"/>fore the riſing of the <hi>ſap,</hi> their wounds become hard and dry; and the <hi>ſpirits</hi> of the <hi>Plant</hi>
+                  <pb n="36" facs="tcp:99234:29"/>kept <hi>in,</hi> makes them break out the more vigorouſly at the <hi>eyes,</hi> furniſhing the bran<g ref="char:EOLhyphen"/>ches with proud and turgid <hi>buds.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="37" facs="tcp:99234:29"/>
+               <head>CHAP. VII. <hi>How, and when to manure your</hi> Vineyard <hi>with</hi> Compoſt.</head>
+               <p>WHen through often ſtirring, you find your <hi>Vineyard</hi> poore, (which the weakneſs of your <hi>crop</hi> will ſoon diſcover) <hi>Prune</hi> your <hi>Vines</hi> as you are inſtruct<g ref="char:EOLhyphen"/>ed; and ſpread good rotten <hi>dung</hi> mixt with <hi>lime,</hi> over the whole ground; let this lye a full winter, that the vertue of it may be waſh'd into the <hi>Earth,</hi> and this way of <hi>Stercoration</hi> is infinitly to be prefer'd before the digging, and mingling it
+<pb n="38" facs="tcp:99234:30"/>with your <hi>mould:</hi> But if you will have it in prefection, lay your materials in a large heape, in ſome convenient place near your <hi>Vineyard:</hi> A <hi>layer</hi> of freſh and <hi>natural Earth</hi> taken from the <hi>Surface,</hi> and another of <hi>dung</hi> a pretty deale thicker; then a <hi>layer</hi> of <hi>Earth</hi> again, and ſo ſucceſſively, mingling a load of <hi>lime</hi> to eve<g ref="char:EOLhyphen"/>ry <hi>ten</hi> loads of <hi>dung,</hi> will make an admirable <hi>Compoſt</hi> for the purpoſe; but your <hi>Ma<g ref="char:EOLhyphen"/>gazine</hi> will require the matu<g ref="char:EOLhyphen"/>rity of <hi>two</hi> or <hi>three</hi> years, and to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cover'd with the former qualified <hi>Earth,</hi> and ſomewhat
+<pb n="39" facs="tcp:99234:30"/>ſhaded, ſo as neither the <hi>Sun</hi> too much draw from it, nor the violent <hi>raines</hi> too much dilute it.</p>
+               <p>With this <hi>Compoſition,</hi> after you have (as we advis'd) prund your <hi>Vines</hi> (for which the moneths of <hi>January</hi> and <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> may be allowed) dung your whole <hi>Vineyard;</hi> About <hi>thirty</hi> Loads I ſuppoſe may well dreſs an <hi>Aker;</hi> but lay, and ſpread it equally, and then you may turne it <hi>in,</hi> with a ſlight digging, but not too deep; and ſhall in a ſhort time find it as light and tract<g ref="char:EOLhyphen"/>able as the freſheſt <hi>Farth,</hi>
+                  <pb n="40" facs="tcp:99234:31"/>which property we aſcribe to the <hi>Lime.</hi> When this is done, re-eſtabliſh your <hi>props,</hi> and with your <hi>foot</hi> tread the <hi>Earth</hi> cloſe to the <hi>roots,</hi> to defend their <hi>fibers</hi> from the dry winds of <hi>March,</hi> which will even pe<g ref="char:EOLhyphen"/>netrate the looſer mould; but this worke ſhould be per<g ref="char:EOLhyphen"/>form'd in a <hi>dry,</hi> not in a <hi>wet</hi> ſeaſon; leſt the <hi>Earth</hi> bind too faſt, and for other obvious reaſons.</p>
+               <p>And thus I have ſhew'd how <hi>Vineyards</hi> in <hi>England</hi> may be <hi>Planted, govern'd,</hi> and <hi>perpe<g ref="char:EOLhyphen"/>tuated</hi> with undoubted ſuc<g ref="char:EOLhyphen"/>ceſs, omitting theleſs material
+<pb n="41" facs="tcp:99234:31"/>
+                  <hi>curioſities</hi> to the larger <hi>Volumes,</hi> and thoſe who have more lea<g ref="char:EOLhyphen"/>ſure (I fear) than skill.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:99234:32"/>
+            <head>TO THE READER.</head>
+            <p>LEt the <hi>Reader</hi> be plea<g ref="char:EOLhyphen"/>ſed to take <hi>notice,</hi> that I have not only endeavour'd to furniſh all lovers of theſe <hi>Plantations</hi> with the beſt <hi>Inſtructions</hi> I am able concerning the <hi>choice</hi> and <hi>propagation</hi> of <hi>Vines;</hi> but my ſelf al<g ref="char:EOLhyphen"/>ſo with ſo plentifull a <hi>Stock</hi> of <hi>Sets</hi> and <hi>Plants</hi> of all thoſe <hi>Sorts</hi> which I chiefly recommend, that thoſe who
+<pb facs="tcp:99234:32"/>have a deſire to <hi>Store</hi> their <hi>Grounds,</hi> may receive them of me at very rea<g ref="char:EOLhyphen"/>ſonable Rates.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
